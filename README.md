@@ -1,6 +1,6 @@
 ## Fork by Wulfen
 
-I fixed the duplicate problem. 95-98%+ of the duplicates are gone. duplicates are not going to deleted with this version from your DB. I just not save them anymore. Wait one week or delete the DB in WTF/Account/youaccountID/savedVariables/honorspy.lua  .
+I fixed the duplicate problem. 95-98%+ of the duplicates are gone. duplicates are not going to be deleted with this version from your DB. It just stop saving them anymore. Wait one week or delete the DB in WTF/Account/youaccountID/savedVariables/honorspy.lua  .
 
 ## HonorSpy addon for WoW: Classic
 
